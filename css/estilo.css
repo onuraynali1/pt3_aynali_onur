@@ -1,0 +1,36 @@
+p {
+    font-size: 20px;
+}
+
+#quadroVerde {
+    background-color: rgba(0, 255, 0, 0.5);
+    margin: 1em;
+}
+
+#quadroVerde2 {
+    background-color: rgba(0, 155, 0, 0.5);
+    margin: 1em;
+}
+
+#quadroAzul {
+    background-color: rgba(0, 0, 200, 0.5);
+    margin: 1em;
+}
+
+#cebolla {
+    width: 50%;
+}
+
+#ajos {
+    width: 50%;
+    
+}
+
+h3 {
+    font-size: 25px;
+}
+
+#platoColiflor {
+    width: 50%;
+}
+

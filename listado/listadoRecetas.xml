@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="listadoRecetas.xsl"?>
+<recetas>
+  <receta>
+    <nombre>Salsa con pasta de coliflor y pimienta</nombre>
+    <ingredientes>
+      <ingrediente cantidad="4" unidad="cucharadas">Ingrediente 1</ingrediente>
+    </ingredientes>
+    <preparacion>
+      <paso tiempo="10 min">PASO 1</paso>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>RECETA 2</nombre>
+    <ingredientes>
+      <ingrediente cantidad="4" unidad="cucharadas">Ingrediente 2</ingrediente>
+    </ingredientes>
+    <preparacion>
+      <paso tiempo="10 min">PASO 2</paso>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>Receta 3</nombre>
+    <ingredientes>
+      <ingrediente cantidad="4" unidad="cucharadas">Ingrediente 3</ingrediente>
+    </ingredientes>
+    <preparacion>
+      <paso tiempo="10 min">PASO 3</paso>
+    </preparacion>
+  </receta>
+</recetas>

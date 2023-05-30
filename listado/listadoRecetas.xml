@@ -6,6 +6,9 @@
     <ingredientes>
       <ingrediente>8 ingredientes</ingrediente>
     </ingredientes>
+    <dificultad-tiempo>
+      40 min - Nivel experto
+    </dificultad-tiempo>
     <preparacion>
       <tiempo>PASO 1</tiempo>
     </preparacion>
@@ -26,6 +29,9 @@
     <ingredientes>
       <ingrediente>Ingrediente 3</ingrediente>
     </ingredientes>
+    <dificultad-tiempo>
+      40 min - Nivel experto
+    </dificultad-tiempo>
     <preparacion>
       <tiempo>PASO 3</tiempo>
     </preparacion>

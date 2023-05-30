@@ -32,7 +32,7 @@
           </center>
           <section>
             <br/>
-            <article style="background-color: rgba(0, 0, 200, 0.5); margin: 1px;">
+            <article style="background-color: rgba(0, 0, 200, 0.5); margin: 1px; width: 70%;">
               <xsl:for-each select="recetas/receta">
                 <br/>
                 <h3>
@@ -41,11 +41,13 @@
                   </a>
                 </h3>
                 <br/>
-                <div style="border: 4px dotted blue;">
-                  <h4><xsl:value-of select="preparacion/calorias"/></h4>
-                  <h4><xsl:value-of select="ingredientes"/></h4>
-                  <h4><xsl:value-of select="dificultad-tiempo"/></h4>
-                <div/>
+                <div style="border: 4px dotted black;">
+                  <sector>
+                    <h4><xsl:value-of select="preparacion/calorias"/></h4>
+                    <h4><xsl:value-of select="ingredientes"/></h4>
+                    <h4><xsl:value-of select="dificultad-tiempo"/></h4>
+                  </sector>
+                </div>
                 <br/>
                 <hr/>
                 <hr/>

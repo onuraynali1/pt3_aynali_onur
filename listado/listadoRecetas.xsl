@@ -41,6 +41,7 @@
                   </a>
                 </h3>
                 <h4><xsl:value-of select="preparacion"/></h4>
+                <br/>
                 <h4><xsl:value-of select="ingredientes"/></h4>
                 <h4>40 min - Nivel experto</h4>
                 <br/>

@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="listadoRecetas.xsl"?>
 <recetas>
   <receta>
-    <nombre>Salsa con pasta de coliflor y pimienta</nombre>
+    <nombre>SALSA CON PASTA COLIFLOR Y PIMIENTA</nombre>
     <ingredientes>
       <ingrediente>8 ingredientes</ingrediente>
     </ingredientes>
@@ -15,7 +15,7 @@
   </receta>
 
   <receta>
-    <nombre>Pimientos del piquillo</nombre>
+    <nombre>PIMIENTOS DEL PIQUILLO</nombre>
     <ingredientes>
       <ingrediente>13 ingredientes</ingrediente>
     </ingredientes>
@@ -28,7 +28,7 @@
   </receta>
 
   <receta>
-    <nombre>Receta 3</nombre>
+    <nombre>CHICKEN TERIYAKI</nombre>
     <ingredientes>
       <ingrediente>6 Ingredientes</ingrediente>
     </ingredientes>
@@ -37,6 +37,383 @@
     </dificultad-tiempo>
     <preparacion>
       <calorias>260 kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>HUEVOS DUROS</nombre>
+    <ingredientes>
+      <ingrediente>3 Ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      10 min - Nivel principiante
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>100 kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>PIZZA PEPPERONI</nombre>
+    <ingredientes>
+      <ingrediente>18 ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      30 min - Nivel medio
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>860kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>ALBONDIGAS DE LA ABUELA</nombre>
+    <ingredientes>
+      <ingrediente>14 ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      50 min - Nivel experto
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>150kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>ARROZ BASMATI</nombre>
+    <ingredientes>
+      <ingrediente>2 ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      30 min - Nivel medio
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>200 kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>HUEVOS ESTRELLADOS</nombre>
+    <ingredientes>
+      <ingrediente>2 Ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      10 min - Nivel principiante
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>130 kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>MACARRONES</nombre>
+    <ingredientes>
+      <ingrediente>4 ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      30 min - Nivel medio
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>240kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>AGUA CON SAL</nombre>
+    <ingredientes>
+      <ingrediente>2 ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      1 min - Nivel principiante
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>1kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>COSTILLAS DE CERDO</nombre>
+    <ingredientes>
+      <ingrediente>4 ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      30 min - Nivel medio
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>610 kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>HUEVOS FRITOS</nombre>
+    <ingredientes>
+      <ingrediente>2 Ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      10 min - Nivel principiante
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>160 kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>SOPA VEGANA</nombre>
+    <ingredientes>
+      <ingrediente>5 ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      34 min - Nivel medio
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>60kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>CANNOLI</nombre>
+    <ingredientes>
+      <ingrediente>4 ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      20 min - Nivel principiante
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>55kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>SPAGGETTI</nombre>
+    <ingredientes>
+      <ingrediente>6 ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      30 min - Nivel medio
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>210 kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>PATO A LA NARANJA</nombre>
+    <ingredientes>
+      <ingrediente>23 Ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      110 min - Nivel experto
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>130 kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>PATATAS AL AJILLO</nombre>
+    <ingredientes>
+      <ingrediente>5 ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      30 min - Nivel medio
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>500kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>CHIPIRONES A LA ROMANA</nombre>
+    <ingredientes>
+      <ingrediente>11 ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      10 min - Nivel medio
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>350kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>SALMON FUMADO</nombre>
+    <ingredientes>
+      <ingrediente>2 Ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      30 min - Nivel experto
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>660 kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>CROQUETAS DE JAMÓN</nombre>
+    <ingredientes>
+      <ingrediente>6 Ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      60 min - Nivel experto
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>320 kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>PASTEL DE ZANAHORIA</nombre>
+    <ingredientes>
+      <ingrediente>8 ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      30 min - Nivel medio
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>540kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>CAYOS</nombre>
+    <ingredientes>
+      <ingrediente>12 ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      45 min - Nivel experto
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>353kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>PATATAS BRAVAS</nombre>
+    <ingredientes>
+      <ingrediente>5 ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      10 min - Nivel principiante
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>120 kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>PURÉ DE CALABACIN</nombre>
+    <ingredientes>
+      <ingrediente>4 Ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      25 min - Nivel principiante
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>110 kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>WOK COREANO</nombre>
+    <ingredientes>
+      <ingrediente>41 ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      30 min - Nivel experto
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>740kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>BANQUETE MUNICIPAL</nombre>
+    <ingredientes>
+      <ingrediente>232 ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      360 min - Nivel supremo
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>9999kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>RISSOTTO DE CHAMPIÑONES</nombre>
+    <ingredientes>
+      <ingrediente>6 ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      30 min - Nivel medio
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>635 kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>HELADO DE VAINILLA</nombre>
+    <ingredientes>
+      <ingrediente>4 Ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      120 min - Nivel experto
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>690 kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>SALSA DE YOGUR</nombre>
+    <ingredientes>
+      <ingrediente>2 ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      5 min - Nivel principiante
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>30kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>KEBAB</nombre>
+    <ingredientes>
+      <ingrediente>12 ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      20 min - Nivel principiante
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>240kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>CEBOLLA CARAMELIZADA</nombre>
+    <ingredientes>
+      <ingrediente>3 ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      25 min - Nivel medio
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>210 kcal</calorias>
+    </preparacion>
+  </receta>
+
+  <receta>
+    <nombre>BISTEC DE TERNERA</nombre>
+    <ingredientes>
+      <ingrediente>4 Ingredientes</ingrediente>
+    </ingredientes>
+    <dificultad-tiempo>
+      45 min - Nivel experto
+    </dificultad-tiempo>
+    <preparacion>
+      <calorias>450 kcal</calorias>
     </preparacion>
   </receta>
 </recetas>

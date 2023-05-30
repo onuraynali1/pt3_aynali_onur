@@ -41,7 +41,7 @@
                   </a>
                 </h3>
                 <br/>
-                <div style="border: 4px dotted black;">
+                <div style="border: 4px dotted black; width: 60%;">
                   <sector>
                     <h4><xsl:value-of select="preparacion/calorias"/></h4>
                     <h4><xsl:value-of select="ingredientes"/></h4>

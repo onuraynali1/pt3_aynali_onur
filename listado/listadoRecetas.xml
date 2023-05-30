@@ -7,10 +7,10 @@
       <ingrediente>8 ingredientes</ingrediente>
     </ingredientes>
     <dificultad-tiempo>
-      40 min - Nivel experto
+      30 min - Nivel medio
     </dificultad-tiempo>
     <preparacion>
-      <tiempo>PASO 1</tiempo>
+      <calorias>350kcal</calorias>
     </preparacion>
   </receta>
 
@@ -19,8 +19,11 @@
     <ingredientes>
       <ingrediente>13 ingredientes</ingrediente>
     </ingredientes>
+    <dificultad-tiempo>
+      10 min - Nivel principiante
+    </dificultad-tiempo>
     <preparacion>
-      <tiempo>PASO 2</tiempo>
+      <calorias>PASO 2</calorias>
     </preparacion>
   </receta>
 
@@ -33,7 +36,7 @@
       40 min - Nivel experto
     </dificultad-tiempo>
     <preparacion>
-      <tiempo>PASO 3</tiempo>
+      <calorias>PASO 3</calorias>
     </preparacion>
   </receta>
 </recetas>

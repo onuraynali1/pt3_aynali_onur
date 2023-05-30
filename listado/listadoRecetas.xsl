@@ -40,9 +40,12 @@
                     <xsl:value-of select="nombre"/>
                   </a>
                 </h3>
-                <h4><xsl:value-of select="preparacion"/></h4>
-                <h4><xsl:value-of select="ingredientes"/></h4>
-                <h4><xsl:value-of select="dificultad-tiempo"</h4>
+                <br/>
+                <div style="border: 4px dotted blue;">
+                  <h4><xsl:value-of select="preparacion/calorias"/></h4>
+                  <h4><xsl:value-of select="ingredientes"/></h4>
+                  <h4><xsl:value-of select="dificultad-tiempo"/></h4>
+                <div/>
                 <br/>
                 <hr/>
                 <hr/>

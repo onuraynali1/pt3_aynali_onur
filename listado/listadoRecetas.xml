@@ -7,7 +7,7 @@
       <ingrediente>8 ingredientes</ingrediente>
     </ingredientes>
     <preparacion>
-      <paso>PASO 1</paso>
+      <tiempo>PASO 1</tiempo>
     </preparacion>
   </receta>
 
@@ -17,7 +17,7 @@
       <ingrediente>13 ingredientes</ingrediente>
     </ingredientes>
     <preparacion>
-      <paso>PASO 2</paso>
+      <tiempo>PASO 2</tiempo>
     </preparacion>
   </receta>
 
@@ -27,7 +27,7 @@
       <ingrediente>Ingrediente 3</ingrediente>
     </ingredientes>
     <preparacion>
-      <paso>PASO 3</paso>
+      <tiempo>PASO 3</tiempo>
     </preparacion>
   </receta>
 </recetas>

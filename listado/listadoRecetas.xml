@@ -15,7 +15,7 @@
   </receta>
 
   <receta>
-    <nombre>RECETA 2</nombre>
+    <nombre>Pimientos del piquillo</nombre>
     <ingredientes>
       <ingrediente>13 ingredientes</ingrediente>
     </ingredientes>
@@ -23,20 +23,20 @@
       10 min - Nivel principiante
     </dificultad-tiempo>
     <preparacion>
-      <calorias>PASO 2</calorias>
+      <calorias>150kcal</calorias>
     </preparacion>
   </receta>
 
   <receta>
     <nombre>Receta 3</nombre>
     <ingredientes>
-      <ingrediente>Ingrediente 3</ingrediente>
+      <ingrediente>6 Ingredientes</ingrediente>
     </ingredientes>
     <dificultad-tiempo>
       40 min - Nivel experto
     </dificultad-tiempo>
     <preparacion>
-      <calorias>PASO 3</calorias>
+      <calorias>260 kcal</calorias>
     </preparacion>
   </receta>
 </recetas>

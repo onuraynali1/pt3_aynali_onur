@@ -4,7 +4,7 @@
   <receta>
     <nombre>Salsa con pasta de coliflor y pimienta</nombre>
     <ingredientes>
-      <ingrediente cantidad="4" unidad="cucharadas">Ingrediente 1</ingrediente>
+      <ingrediente>Ingrediente 1</ingrediente>
     </ingredientes>
     <preparacion>
       <paso tiempo="10 min">PASO 1</paso>
@@ -14,7 +14,7 @@
   <receta>
     <nombre>RECETA 2</nombre>
     <ingredientes>
-      <ingrediente cantidad="4" unidad="cucharadas">Ingrediente 2</ingrediente>
+      <ingrediente>Ingrediente 2</ingrediente>
     </ingredientes>
     <preparacion>
       <paso tiempo="10 min">PASO 2</paso>
@@ -24,7 +24,7 @@
   <receta>
     <nombre>Receta 3</nombre>
     <ingredientes>
-      <ingrediente cantidad="4" unidad="cucharadas">Ingrediente 3</ingrediente>
+      <ingrediente>Ingrediente 3</ingrediente>
     </ingredientes>
     <preparacion>
       <paso tiempo="10 min">PASO 3</paso>
